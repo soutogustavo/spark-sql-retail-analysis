@@ -1,6 +1,6 @@
 # Online Retail Analysis (Databricks + SQL)
 
-This project explores a UK Online Retail dataset using Databricks notebooks and SQL.
+This project explores a UK Online Retail dataset using Databricks notebooks and SQL to answer key business questions related to customer behavior, product performance, and sales trends.
 
 **Note**: I recommend checking the results on Databricks (i.e., [Databricks notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1577492776175845/54283522944020/4308252803629806/latest.html)) since the cell's outputs might be long ones in the Jupyter Notebook in this repository.
 
